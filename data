@@ -1,1 +1,16 @@
-com.HubLawtanApp1.SosoModapptricksGames
+{
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"7b99ced79e70ab2d",
+            "inter":"b6fd7b2ccb6817f2",
+            "nativ":"9967ba51212fd36b",
+            "reword":"9c7e73b4d2c2f494"}
+            }
